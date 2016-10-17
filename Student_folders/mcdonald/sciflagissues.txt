@@ -1,0 +1,4 @@
+SCI Env check sci_check_v2.pyc provides me with a flag.  However, the flag is registering as invalid.  below is the flag it gives me
+
+
+1754b58151f122e951431c49731782d836cfb83404
